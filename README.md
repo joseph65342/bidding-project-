@@ -83,12 +83,14 @@ contract AuctionContract {
     uint highestBidAmount;
     address highestBidder;
 
+
     uint startTime;
     uint endTime;
     address owner;
     bool auctionEnded = false;
 
     address currentAddress;
+
 
 
     constructor() {
@@ -105,8 +107,10 @@ contract AuctionContract {
         biddersData[0xa0Ee7A142d267C1f36714E4a8F75612F20a79720] = 0;
         biddersData[0xBcd4042DE499D14e55001CcbB24a551F3b954096] = 0;
 
+
         startTime = block.timestamp-10;
         endTime = block.timestamp+200;
+
 
     }
 
@@ -122,6 +126,7 @@ function putBid(uint amount, address _address) public whenOpen payable {
     highestBidAmount = calculateAmount;
     highestBidder = msg.sender;
 }
+
 
 //get Highest BidAmount
 function HighestBid() public view returns(uint) {
@@ -141,6 +146,7 @@ function TotalBid(address _address) public view returns(uint) {
 
 
 
+
 modifier whenOpen() {
     require(block.timestamp > startTime && block.timestamp <= endTime, "Time is up!  Auction is over.");
     _;
@@ -155,14 +161,15 @@ function withdrawBid(address payable _address) public {
 } 
 
 
+
 function getTimeLeft() public view returns(uint) {
     return endTime-block.timestamp;
 }
 
 
 
-}
 
+}
 
 Web Interface
 
@@ -187,13 +194,7 @@ Step 1) Command line into the server folder
 
 Step 2) Run the command npm install to get node_modules for the server folder
 
-Step 3) Open app.js in the server folder
-
-Step 4) Most likely have to change the connection string
-
-Step 5) Make sure you're in \server
-
-Step 6) Run the command node app.js
+Step 3) Run the command node app.js
 
 ----------------------------------
 
