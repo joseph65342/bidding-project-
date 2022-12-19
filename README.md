@@ -44,7 +44,10 @@ outputs: the remaining time before the auction closes.  Once closed the putBid f
 
 Flow Diagrams:
 
+<img width="316" alt="flow_diagram" src="https://user-images.githubusercontent.com/114844472/208344306-10e33dcc-ddeb-404b-85c9-9c6a612363c0.png">
 
+
+<img width="348" alt="flow_diagram2" src="https://user-images.githubusercontent.com/114844472/208344314-4d7e2b9e-543a-4fa1-a18e-607c3d1599f0.png">
 
  
 
