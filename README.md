@@ -1,4 +1,4 @@
-Requirements:
+Requirements
 
 Problem Statement: Auctions are still popular around the world.  With the rapidly everchanging world thanks to the advancements in technology, new ways of holding auctions can be explored.
 
@@ -70,6 +70,7 @@ December 13th – December 14th: Create react project and install all dependenci
 December 14th – December 18th: Connect smart contract to frontend, write the necessary code for backend and frontend.  Submit on github.
 
 Smart Contract
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity >0.4.0 <0.9.0;
@@ -168,10 +169,10 @@ General Information:
 
 Student - Joseph R
 
-Sometimes windows creates duplicate folders so if there is two assignment- folders, make sure you're in the second one.
+Sometimes windows creates duplicate folders so if there is two folders, make sure you're in the second one.
 
 I have a folder for the server related code, a folder for the hardhat related code, but for the frontend there's no folder
-called frontend, all the frontend related code is just under the assignment- root folder.
+called frontend, all the frontend related code is just under the root folder.
 
 In total, for the whole app to run there should be four terminals running.  
 
@@ -187,7 +188,7 @@ Step 3) Open app.js in the server folder
 
 Step 4) Most likely have to change the connection string
 
-Step 5) Make sure you're in assignment-\server
+Step 5) Make sure you're in \server
 
 Step 6) Run the command node app.js
 
@@ -215,10 +216,34 @@ Frontend Information:
 
 Step 1) Open another terminal
 
-Step 2) Commnand line into the assignment- folder.  Make sure you're in the inner most assignment- folder, after unzipping this project 
-windows might have created two assignment- folders.  So make sure you're in the second assignment- folder if that is the case.
+Step 2) Run the command npm install to get node_modules for the front end part of the assignment
 
-Step 3) Run the command npm install to get node_modules for the front end part of the assignment
+Step 3) Run the command npm start
 
-Step 4) Run the command npm start
+Photos:
+
+<img width="1248" alt="pic1" src="https://user-images.githubusercontent.com/114844472/208343941-90bb2d2c-7cdb-4479-89df-efe477fca3d2.png">
+
+<img width="1248" alt="pic2" src="https://user-images.githubusercontent.com/114844472/208343970-d65669ec-ed95-400e-be1f-f5957a8faae2.png">
+
+<img width="1248" alt="pic3" src="https://user-images.githubusercontent.com/114844472/208343974-fb7e35ca-fb59-42b7-b6e5-fd88d6c3f6cb.png">
+
+<img width="1248" alt="pic4" src="https://user-images.githubusercontent.com/114844472/208343989-4209d4d9-9161-4133-8969-f6796e50fa94.png">
+
+<img width="1248" alt="pic5" src="https://user-images.githubusercontent.com/114844472/208343999-4b0d0156-d184-4bc1-967b-2da5c10844cd.png">
+
+<img width="1248" alt="pic6" src="https://user-images.githubusercontent.com/114844472/208344021-062c6e6a-c6af-4de9-bf47-b76a827e3e6b.png">
+
+<img width="1248" alt="pic7" src="https://user-images.githubusercontent.com/114844472/208344030-c27b45aa-da9f-4cec-960f-03a841fd0b80.png">
+
+<img width="1248" alt="pic8" src="https://user-images.githubusercontent.com/114844472/208344047-0db1ecbe-73cd-436c-8155-2eeecec86c1c.png">
+
+<img width="1248" alt="pic9" src="https://user-images.githubusercontent.com/114844472/208344057-a04b0cba-b577-46e3-8be4-f51928611679.png">
+
+<img width="1248" alt="pic10" src="https://user-images.githubusercontent.com/114844472/208344074-b4940c98-e147-43eb-b25a-24265deb1cbd.png">
+
+
+
+
+
 
