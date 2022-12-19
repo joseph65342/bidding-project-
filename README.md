@@ -226,24 +226,34 @@ Step 3) Run the command npm start
 
 Photos:
 
+Home Screen
 <img width="1248" alt="pic1" src="https://user-images.githubusercontent.com/114844472/208343941-90bb2d2c-7cdb-4479-89df-efe477fca3d2.png">
 
+Blockchain Node Addresses
 <img width="1248" alt="pic2" src="https://user-images.githubusercontent.com/114844472/208343970-d65669ec-ed95-400e-be1f-f5957a8faae2.png">
 
+Transfer Screen Before Any Bids Have Been Made
 <img width="1248" alt="pic3" src="https://user-images.githubusercontent.com/114844472/208343974-fb7e35ca-fb59-42b7-b6e5-fd88d6c3f6cb.png">
 
+Transfer Screen After A Bid Has Been Made
 <img width="1248" alt="pic4" src="https://user-images.githubusercontent.com/114844472/208343989-4209d4d9-9161-4133-8969-f6796e50fa94.png">
 
+Transfer Screen From A Second Blockchain Address Which Has Not Bid Yet
 <img width="1248" alt="pic5" src="https://user-images.githubusercontent.com/114844472/208343999-4b0d0156-d184-4bc1-967b-2da5c10844cd.png">
 
+Transfer Screen From A Second Blockchain Address After A Bid Was Made
 <img width="1248" alt="pic6" src="https://user-images.githubusercontent.com/114844472/208344021-062c6e6a-c6af-4de9-bf47-b76a827e3e6b.png">
 
+Transfer Screen From The First Blockchain Address That Bid Previously
 <img width="1248" alt="pic7" src="https://user-images.githubusercontent.com/114844472/208344030-c27b45aa-da9f-4cec-960f-03a841fd0b80.png">
 
+Error Message Shown When A User Tries To Make A Bid Less Than The Highest Bid
 <img width="1248" alt="pic8" src="https://user-images.githubusercontent.com/114844472/208344047-0db1ecbe-73cd-436c-8155-2eeecec86c1c.png">
 
+Transfer Screen From A Third Blockchain Address After A Bid Was Made
 <img width="1248" alt="pic9" src="https://user-images.githubusercontent.com/114844472/208344057-a04b0cba-b577-46e3-8be4-f51928611679.png">
 
+Error Message Shown When A User Tries To Make A Bid After The Auction Time Is Over
 <img width="1248" alt="pic10" src="https://user-images.githubusercontent.com/114844472/208344074-b4940c98-e147-43eb-b25a-24265deb1cbd.png">
 
 
